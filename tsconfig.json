@@ -1,0 +1,1 @@
+{\n  "compilerOptions": {\n    "strict": true,\n    "baseUrl": ".",\n    "paths": {\n      "@/*": ["src/*"]\n    },\n    "module": "esnext"\n  },\n  "include": ["src"]\n}
