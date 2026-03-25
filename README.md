@@ -1,0 +1,1 @@
+# Next.js 16 + Material UI Boilerplate\n\nThis is a starter boilerplate for Next.js 16 integrated with Material UI and a Weather API.\n\n## Getting Started\n\n1. Clone the repository.\n2. Install the dependencies: `npm install`.\n3. Run the development server: `npm run dev`.\n\n## Weather API Integration\n\nUse the `WeatherButton` component to fetch weather data.
